@@ -1,0 +1,3 @@
+My second readme
+A script that prints hello world
+A script that displays a confused smiley...
