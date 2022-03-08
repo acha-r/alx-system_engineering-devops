@@ -1,0 +1,3 @@
+A script that creates an alias
+A script that rints hello user
+add action ...
